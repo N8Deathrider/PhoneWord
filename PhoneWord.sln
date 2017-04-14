@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneWord.iOS", "PhoneWord\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneWord.UWP", "PhoneWord\PhoneWord.UWP\PhoneWord.UWP.csproj", "{F3D3E839-EE10-407F-9510-147A1FE0AC93}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D868882C-E0FC-4915-8C66-3380A5151140}"
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		PhoneWord\PhoneWord\PhoneWord.projitems*{7f1ca31d-e144-46ae-99a9-cd328f8e60d8}*SharedItemsImports = 4
